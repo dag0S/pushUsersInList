@@ -1,0 +1,33 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.form__row {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.form__row input {
+  height: 40px;
+  font-size: 20px;
+  width: 300px;
+  border: none;
+  border-radius: 10px;
+  padding-left: 5px;
+}
+
+.form__row label {
+  height: 40px;
+  font-size: 20px;
+}
+button {
+  background: #e41818;
+  border: none;
+  border-radius: 10px;
+  height: 40px;
+  font-size: 16px;
+  font-weight: 600;
+}

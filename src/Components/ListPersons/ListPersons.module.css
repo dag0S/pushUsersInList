@@ -1,0 +1,8 @@
+.list-person {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 20px;
+  background: #34dffd;
+  box-shadow: 0px 0px 10px 5px rgb(51, 121, 134);
+}
